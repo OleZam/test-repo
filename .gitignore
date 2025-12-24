@@ -1,0 +1,36 @@
+# VS Code
+.vscode/
+*.code-workspace
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Python
+__pycache__/
+*.py[cod]
+*.so
+.Python
+env/
+venv/
+
+# Логи и временные файлы
+*.log
+*.tmp
+*.temp
+
+# Системные файлы
+Thumbs.db
+
+# Резервные копии
+*.bak
+*.backup
+
+# IDE
+.idea/
+*.iml
+
+# npm
+node_modules/
+npm-debug.log*
